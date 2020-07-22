@@ -1,0 +1,29 @@
+{
+    "name": "tavgear/benchmark",
+    "description": "Flexible utility for measuring execution time of code using customizable timers. Various output formats supported. Used for initial debugging and code optimization.",
+    "type": "library",
+    "keywords": [
+        "timer",
+        "benchmark",
+        "performance",
+        "profiling",
+        "optimization",
+        "measure time",
+        "performance analysis"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aleksei Terekhin",
+            "email": "info@tavgear.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tvg\\": "./src"
+        }
+    },
+    "require": {
+        "php": ">=7.1"
+    }    
+}
