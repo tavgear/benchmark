@@ -1,4 +1,6 @@
-# Benchmark
+# Benchmark - Check code speed
+
+[![Latest Stable Version](https://img.shields.io/packagist/v/tavgear/benchmark.svg)](https://packagist.org/packages/tavgear/benchmark)
 
 A lightweight, easy-to-use benchmark tool for measuring execution times of parts of your code using customizable timers. The output of results in different formats is supported.
 
